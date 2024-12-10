@@ -1,0 +1,9 @@
+C:\Users\LINKZ\OneDrive\Documentos\Dev\CSHARP\CRUDASP\CRUDASP\obj\Debug\net8.0\CRUDASP.csproj.AssemblyReference.cache
+C:\Users\LINKZ\OneDrive\Documentos\Dev\CSHARP\CRUDASP\CRUDASP\obj\Debug\net8.0\CRUDASP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LINKZ\OneDrive\Documentos\Dev\CSHARP\CRUDASP\CRUDASP\obj\Debug\net8.0\CRUDASP.AssemblyInfoInputs.cache
+C:\Users\LINKZ\OneDrive\Documentos\Dev\CSHARP\CRUDASP\CRUDASP\obj\Debug\net8.0\CRUDASP.AssemblyInfo.cs
+C:\Users\LINKZ\OneDrive\Documentos\Dev\CSHARP\CRUDASP\CRUDASP\obj\Debug\net8.0\CRUDASP.csproj.CoreCompileInputs.cache
+C:\Users\LINKZ\OneDrive\Documentos\Dev\CSHARP\CRUDASP\CRUDASP\obj\Debug\net8.0\CRUDASP.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\LINKZ\OneDrive\Documentos\Dev\CSHARP\CRUDASP\CRUDASP\obj\Debug\net8.0\CRUDASP.RazorAssemblyInfo.cache
+C:\Users\LINKZ\OneDrive\Documentos\Dev\CSHARP\CRUDASP\CRUDASP\obj\Debug\net8.0\CRUDASP.RazorAssemblyInfo.cs
+C:\Users\LINKZ\OneDrive\Documentos\Dev\CSHARP\CRUDASP\CRUDASP\obj\Debug\net8.0\CRUDASP.sourcelink.json
