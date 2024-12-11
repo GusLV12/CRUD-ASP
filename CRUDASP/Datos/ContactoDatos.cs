@@ -88,7 +88,70 @@ namespace CRUDASP.Datos
 
                 res = true;
             }
-            catch(Exception ex) {
+            catch(Exception ex)
+            {
+                Console.WriteLine($"Error al guardar registro {ex.Message}");
+                res = false;
+            }
+
+            return res;
+        }
+
+        public bool Editar(ContactoModel oContacto)
+        {
+            bool res;
+
+            try
+            {
+                // Conexion instancia
+                var cn = new Conexion();
+
+                using (var conexion = new SqlConnection(cn.getCadenaSQL()))
+                {
+                    conexion.Open();
+                    SqlCommand cmd = new SqlCommand("sp_editar", conexion);
+                    cmd.Parameters.AddWithValue("idContacto", oContacto.idContacto);
+                    cmd.Parameters.AddWithValue("Nombre", oContacto.Nombre);
+                    cmd.Parameters.AddWithValue("Telefono", oContacto.Telefono);
+                    cmd.Parameters.AddWithValue("Correo", oContacto.Correo);
+                    cmd.CommandType = CommandType.StoredProcedure;
+
+                    cmd.ExecuteNonQuery();
+                }
+
+                res = true;
+            }
+            catch (Exception ex)
+            {
+                Console.WriteLine($"Error al guardar registro {ex.Message}");
+                res = false;
+            }
+
+            return res;
+        }
+
+        public bool Eliminar(int idContacto)
+        {
+            bool res;
+
+            try
+            {
+                // Conexion instancia
+                var cn = new Conexion();
+
+                using (var conexion = new SqlConnection(cn.getCadenaSQL()))
+                {
+                    conexion.Open();
+                    SqlCommand cmd = new SqlCommand("sp_eliminar", conexion);
+                    cmd.Parameters.AddWithValue("idContacto", idContacto);
+                    cmd.CommandType = CommandType.StoredProcedure;
+
+                    cmd.ExecuteNonQuery();
+                }
+
+                res = true;
+            }
+            catch (Exception ex)
             {
                 Console.WriteLine($"Error al guardar registro {ex.Message}");
                 res = false;
