@@ -21,6 +21,9 @@ namespace CRUDASP.Controllers
         [HttpPost]
         public IActionResult Guardar(ContactoModel oContacto)
         {
+
+            if (!ModelState.IsValid) return View();
+
             var res = _ContactoDatos.Guardar(oContacto);
 
             if (res)
