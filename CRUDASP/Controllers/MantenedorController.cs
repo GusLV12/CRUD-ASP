@@ -33,5 +33,45 @@ namespace CRUDASP.Controllers
 
             return View();
         }
+
+        public IActionResult Editar(int idContacto)
+        {
+            var oContacto = _ContactoDatos.Obtener(idContacto);
+            return View(oContacto);
+        }
+
+        [HttpPost]
+        public IActionResult Editar(ContactoModel oContacto)
+        {
+
+            if (!ModelState.IsValid) return View();
+
+            var res = _ContactoDatos.Editar(oContacto);
+
+            if (res)
+            {
+                return RedirectToAction("Listar");
+            }
+            return View(oContacto);
+        }
+
+        public IActionResult Eliminar(int idContacto)
+        {
+            var oContacto = _ContactoDatos.Obtener(idContacto);
+            return View(oContacto);
+        }
+
+        [HttpPost]
+        public IActionResult Eliminar(ContactoModel oContacto)
+        {
+
+            var res = _ContactoDatos.Eliminar(oContacto.idContacto);
+
+            if (res)
+            {
+                return RedirectToAction("Listar");
+            }
+            return View(oContacto);
+        }
     }
 }

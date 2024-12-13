@@ -7,7 +7,7 @@
 <div class="card">
     <h5 class="card-header">Listar Contacto</h5>
     <div class="card-body">
-        <a asp-action="Listar" asp-controller="Mantenedor" class="btn btn-success">Crear nuevo</a>
+        <a asp-action="Guardar" asp-controller="Mantenedor" class="btn btn-success">Crear nuevo</a>
         <hr />
         <table class="table table-bordered">
             <thead>
@@ -25,7 +25,10 @@
                         <td>@item.Nombre</td>
                         <td>@item.Telefono</td>
                         <td>@item.Correo</td>
-                        <td></td>
+                        <td>
+                            <a asp-action="Editar" asp-controller="Mantenedor" class="btn btn-primary btn-sm" asp-route-idContacto="@item.idContacto">Editar</a>
+                            <a asp-action="Eliminar" asp-controller="Mantenedor" class="btn btn-danger btn-sm" asp-route-idContacto="@item.idContacto">Eliminar</a>
+                        </td>
                     </tr>
                 }
             </tbody>

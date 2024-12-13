@@ -3,32 +3,32 @@
   "WorkspaceRootPath": "C:\\Users\\LINKZ\\OneDrive\\Documentos\\Dev\\CSHARP\\CRUDASP\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7B590CF7-7657-45A9-B401-3AF550ED6D8B}|CRUDASP\\CRUDASP.csproj|c:\\users\\linkz\\onedrive\\documentos\\dev\\csharp\\crudasp\\crudasp\\views\\mantenedor\\listar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{7B590CF7-7657-45A9-B401-3AF550ED6D8B}|CRUDASP\\CRUDASP.csproj|solutionrelative:crudasp\\views\\mantenedor\\listar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7B590CF7-7657-45A9-B401-3AF550ED6D8B}|CRUDASP\\CRUDASP.csproj|c:\\users\\linkz\\onedrive\\documentos\\dev\\csharp\\crudasp\\crudasp\\views\\mantenedor\\guardar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{7B590CF7-7657-45A9-B401-3AF550ED6D8B}|CRUDASP\\CRUDASP.csproj|solutionrelative:crudasp\\views\\mantenedor\\guardar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{7B590CF7-7657-45A9-B401-3AF550ED6D8B}|CRUDASP\\CRUDASP.csproj|c:\\users\\linkz\\onedrive\\documentos\\dev\\csharp\\crudasp\\crudasp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7B590CF7-7657-45A9-B401-3AF550ED6D8B}|CRUDASP\\CRUDASP.csproj|solutionrelative:crudasp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B590CF7-7657-45A9-B401-3AF550ED6D8B}|CRUDASP\\CRUDASP.csproj|c:\\users\\linkz\\onedrive\\documentos\\dev\\csharp\\crudasp\\crudasp\\views\\mantenedor\\eliminar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7B590CF7-7657-45A9-B401-3AF550ED6D8B}|CRUDASP\\CRUDASP.csproj|solutionrelative:crudasp\\views\\mantenedor\\eliminar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B590CF7-7657-45A9-B401-3AF550ED6D8B}|CRUDASP\\CRUDASP.csproj|c:\\users\\linkz\\onedrive\\documentos\\dev\\csharp\\crudasp\\crudasp\\datos\\contactodatos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B590CF7-7657-45A9-B401-3AF550ED6D8B}|CRUDASP\\CRUDASP.csproj|solutionrelative:crudasp\\datos\\contactodatos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7B590CF7-7657-45A9-B401-3AF550ED6D8B}|CRUDASP\\CRUDASP.csproj|c:\\users\\linkz\\onedrive\\documentos\\dev\\csharp\\crudasp\\crudasp\\controllers\\mantenedorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7B590CF7-7657-45A9-B401-3AF550ED6D8B}|CRUDASP\\CRUDASP.csproj|solutionrelative:crudasp\\controllers\\mantenedorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7B590CF7-7657-45A9-B401-3AF550ED6D8B}|CRUDASP\\CRUDASP.csproj|c:\\users\\linkz\\onedrive\\documentos\\dev\\csharp\\crudasp\\crudasp\\models\\contactomodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7B590CF7-7657-45A9-B401-3AF550ED6D8B}|CRUDASP\\CRUDASP.csproj|solutionrelative:crudasp\\models\\contactomodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7B590CF7-7657-45A9-B401-3AF550ED6D8B}|CRUDASP\\CRUDASP.csproj|c:\\users\\linkz\\onedrive\\documentos\\dev\\csharp\\crudasp\\crudasp\\views\\mantenedor\\listar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7B590CF7-7657-45A9-B401-3AF550ED6D8B}|CRUDASP\\CRUDASP.csproj|solutionrelative:crudasp\\views\\mantenedor\\listar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7B590CF7-7657-45A9-B401-3AF550ED6D8B}|CRUDASP\\CRUDASP.csproj|c:\\users\\linkz\\onedrive\\documentos\\dev\\csharp\\crudasp\\crudasp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{7B590CF7-7657-45A9-B401-3AF550ED6D8B}|CRUDASP\\CRUDASP.csproj|solutionrelative:crudasp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{7B590CF7-7657-45A9-B401-3AF550ED6D8B}|CRUDASP\\CRUDASP.csproj|c:\\users\\linkz\\onedrive\\documentos\\dev\\csharp\\crudasp\\crudasp\\views\\mantenedor\\editar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7B590CF7-7657-45A9-B401-3AF550ED6D8B}|CRUDASP\\CRUDASP.csproj|solutionrelative:crudasp\\views\\mantenedor\\editar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7B590CF7-7657-45A9-B401-3AF550ED6D8B}|CRUDASP\\CRUDASP.csproj|c:\\users\\linkz\\onedrive\\documentos\\dev\\csharp\\crudasp\\crudasp\\datos\\contactodatos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7B590CF7-7657-45A9-B401-3AF550ED6D8B}|CRUDASP\\CRUDASP.csproj|solutionrelative:crudasp\\datos\\contactodatos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7B590CF7-7657-45A9-B401-3AF550ED6D8B}|CRUDASP\\CRUDASP.csproj|c:\\users\\linkz\\onedrive\\documentos\\dev\\csharp\\crudasp\\crudasp\\views\\mantenedor\\guardar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7B590CF7-7657-45A9-B401-3AF550ED6D8B}|CRUDASP\\CRUDASP.csproj|solutionrelative:crudasp\\views\\mantenedor\\guardar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7B590CF7-7657-45A9-B401-3AF550ED6D8B}|CRUDASP\\CRUDASP.csproj|c:\\users\\linkz\\onedrive\\documentos\\dev\\csharp\\crudasp\\crudasp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -42,7 +42,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -50,15 +50,54 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ContactoDatos.cs",
+              "DocumentMoniker": "C:\\Users\\LINKZ\\OneDrive\\Documentos\\Dev\\CSHARP\\CRUDASP\\CRUDASP\\Datos\\ContactoDatos.cs",
+              "RelativeDocumentMoniker": "CRUDASP\\Datos\\ContactoDatos.cs",
+              "ToolTip": "C:\\Users\\LINKZ\\OneDrive\\Documentos\\Dev\\CSHARP\\CRUDASP\\CRUDASP\\Datos\\ContactoDatos.cs",
+              "RelativeToolTip": "CRUDASP\\Datos\\ContactoDatos.cs",
+              "ViewState": "AgIAAIAAAAAAAAAAAAAIwJUAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T21:53:28.216Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Guardar.cshtml",
-              "DocumentMoniker": "C:\\Users\\LINKZ\\OneDrive\\Documentos\\Dev\\CSHARP\\CRUDASP\\CRUDASP\\Views\\Mantenedor\\Guardar.cshtml",
-              "RelativeDocumentMoniker": "CRUDASP\\Views\\Mantenedor\\Guardar.cshtml",
-              "ToolTip": "C:\\Users\\LINKZ\\OneDrive\\Documentos\\Dev\\CSHARP\\CRUDASP\\CRUDASP\\Views\\Mantenedor\\Guardar.cshtml",
-              "RelativeToolTip": "CRUDASP\\Views\\Mantenedor\\Guardar.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAABsAAAAAAAAAA==",
+              "Title": "Eliminar.cshtml",
+              "DocumentMoniker": "C:\\Users\\LINKZ\\OneDrive\\Documentos\\Dev\\CSHARP\\CRUDASP\\CRUDASP\\Views\\Mantenedor\\Eliminar.cshtml",
+              "RelativeDocumentMoniker": "CRUDASP\\Views\\Mantenedor\\Eliminar.cshtml",
+              "ToolTip": "C:\\Users\\LINKZ\\OneDrive\\Documentos\\Dev\\CSHARP\\CRUDASP\\CRUDASP\\Views\\Mantenedor\\Eliminar.cshtml",
+              "RelativeToolTip": "CRUDASP\\Views\\Mantenedor\\Eliminar.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-11T03:51:54.653Z",
+              "WhenOpened": "2024-12-13T21:37:00.816Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Listar.cshtml",
+              "DocumentMoniker": "C:\\Users\\LINKZ\\OneDrive\\Documentos\\Dev\\CSHARP\\CRUDASP\\CRUDASP\\Views\\Mantenedor\\Listar.cshtml",
+              "RelativeDocumentMoniker": "CRUDASP\\Views\\Mantenedor\\Listar.cshtml",
+              "ToolTip": "C:\\Users\\LINKZ\\OneDrive\\Documentos\\Dev\\CSHARP\\CRUDASP\\CRUDASP\\Views\\Mantenedor\\Listar.cshtml",
+              "RelativeToolTip": "CRUDASP\\Views\\Mantenedor\\Listar.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA8AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-11T03:28:34.434Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\LINKZ\\OneDrive\\Documentos\\Dev\\CSHARP\\CRUDASP\\CRUDASP\\Program.cs",
+              "RelativeDocumentMoniker": "CRUDASP\\Program.cs",
+              "ToolTip": "C:\\Users\\LINKZ\\OneDrive\\Documentos\\Dev\\CSHARP\\CRUDASP\\CRUDASP\\Program.cs",
+              "RelativeToolTip": "CRUDASP\\Program.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAADgvxcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T03:47:03.528Z",
               "EditorCaption": ""
             },
             {
@@ -69,74 +108,35 @@
               "RelativeDocumentMoniker": "CRUDASP\\Controllers\\MantenedorController.cs",
               "ToolTip": "C:\\Users\\LINKZ\\OneDrive\\Documentos\\Dev\\CSHARP\\CRUDASP\\CRUDASP\\Controllers\\MantenedorController.cs",
               "RelativeToolTip": "CRUDASP\\Controllers\\MantenedorController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-10T21:18:05.92Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Listar.cshtml",
-              "DocumentMoniker": "C:\\Users\\LINKZ\\OneDrive\\Documentos\\Dev\\CSHARP\\CRUDASP\\CRUDASP\\Views\\Mantenedor\\Listar.cshtml",
-              "RelativeDocumentMoniker": "CRUDASP\\Views\\Mantenedor\\Listar.cshtml",
-              "ToolTip": "C:\\Users\\LINKZ\\OneDrive\\Documentos\\Dev\\CSHARP\\CRUDASP\\CRUDASP\\Views\\Mantenedor\\Listar.cshtml",
-              "RelativeToolTip": "CRUDASP\\Views\\Mantenedor\\Listar.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAYAAAAAAAAAA==",
+              "DocumentIndex": 6,
+              "Title": "Guardar.cshtml",
+              "DocumentMoniker": "C:\\Users\\LINKZ\\OneDrive\\Documentos\\Dev\\CSHARP\\CRUDASP\\CRUDASP\\Views\\Mantenedor\\Guardar.cshtml",
+              "RelativeDocumentMoniker": "CRUDASP\\Views\\Mantenedor\\Guardar.cshtml",
+              "ToolTip": "C:\\Users\\LINKZ\\OneDrive\\Documentos\\Dev\\CSHARP\\CRUDASP\\CRUDASP\\Views\\Mantenedor\\Guardar.cshtml",
+              "RelativeToolTip": "CRUDASP\\Views\\Mantenedor\\Guardar.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-11T03:28:34.434Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\LINKZ\\OneDrive\\Documentos\\Dev\\CSHARP\\CRUDASP\\CRUDASP\\Program.cs",
-              "RelativeDocumentMoniker": "CRUDASP\\Program.cs",
-              "ToolTip": "C:\\Users\\LINKZ\\OneDrive\\Documentos\\Dev\\CSHARP\\CRUDASP\\CRUDASP\\Program.cs",
-              "RelativeToolTip": "CRUDASP\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-12T03:47:03.528Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "ContactoModel.cs",
-              "DocumentMoniker": "C:\\Users\\LINKZ\\OneDrive\\Documentos\\Dev\\CSHARP\\CRUDASP\\CRUDASP\\Models\\ContactoModel.cs",
-              "RelativeDocumentMoniker": "CRUDASP\\Models\\ContactoModel.cs",
-              "ToolTip": "C:\\Users\\LINKZ\\OneDrive\\Documentos\\Dev\\CSHARP\\CRUDASP\\CRUDASP\\Models\\ContactoModel.cs",
-              "RelativeToolTip": "CRUDASP\\Models\\ContactoModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-12T03:26:19.06Z",
+              "WhenOpened": "2024-12-11T03:51:54.653Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\LINKZ\\OneDrive\\Documentos\\Dev\\CSHARP\\CRUDASP\\CRUDASP\\appsettings.json",
-              "RelativeDocumentMoniker": "CRUDASP\\appsettings.json",
-              "ToolTip": "C:\\Users\\LINKZ\\OneDrive\\Documentos\\Dev\\CSHARP\\CRUDASP\\CRUDASP\\appsettings.json",
-              "RelativeToolTip": "CRUDASP\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-12-12T03:20:45.947Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "ContactoDatos.cs",
-              "DocumentMoniker": "C:\\Users\\LINKZ\\OneDrive\\Documentos\\Dev\\CSHARP\\CRUDASP\\CRUDASP\\Datos\\ContactoDatos.cs",
-              "RelativeDocumentMoniker": "CRUDASP\\Datos\\ContactoDatos.cs",
-              "ToolTip": "C:\\Users\\LINKZ\\OneDrive\\Documentos\\Dev\\CSHARP\\CRUDASP\\CRUDASP\\Datos\\ContactoDatos.cs",
-              "RelativeToolTip": "CRUDASP\\Datos\\ContactoDatos.cs",
-              "ViewState": "AgIAAD8AAAAAAAAAAAAlwEMAAAAUAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-07T22:13:31.114Z",
+              "Title": "Editar.cshtml",
+              "DocumentMoniker": "C:\\Users\\LINKZ\\OneDrive\\Documentos\\Dev\\CSHARP\\CRUDASP\\CRUDASP\\Views\\Mantenedor\\Editar.cshtml",
+              "RelativeDocumentMoniker": "CRUDASP\\Views\\Mantenedor\\Editar.cshtml",
+              "ToolTip": "C:\\Users\\LINKZ\\OneDrive\\Documentos\\Dev\\CSHARP\\CRUDASP\\CRUDASP\\Views\\Mantenedor\\Editar.cshtml",
+              "RelativeToolTip": "CRUDASP\\Views\\Mantenedor\\Editar.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-13T20:57:01.81Z",
               "EditorCaption": ""
             },
             {
